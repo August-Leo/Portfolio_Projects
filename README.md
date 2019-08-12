@@ -46,6 +46,19 @@ Technical Domain: Natural Language Processing, Predictive modeling (Multilabel c
 Algorithms/Approach: Multilabel classification(Performance metric Micro F1 Score), SQLLite to manage data, Tags Analysis, Natural Language Processing, Logistic Regression with OneVsRest Classifier.
 
 
+## H1B Visa Case Status Prediction
+
+[Link to Project](https://github.com/August-Leo/Banking_Customer_Subscription_Analysis)
+ 
+
+The objective of this model is to predict the case status of an application submitted by the employer in order to hire a non immigrant worker in the United States under the H-1B program.
+
+Functional Domain: Employment
+Technical Domain: Predictive Modeling
+
+Algorithms/Approach: Feature Engineering,Label Encoding,Under Sampling + SMOTE,RF feature importance,Decision tree with bagging, Random Forest, XGBoost.
+
+
 ## Credit Card Fraud Detection
 
 [Link to Project]
