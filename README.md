@@ -30,7 +30,7 @@ Algorithms/Approach: Feature engineering, Class imbalance handled using up sampl
 
 ## Stackoverflow : Tag Prediction
 
-[Link to Project](https://github.com/)
+[Link to Project](https://github.com/August-Leo/Stackoverflow_Tag_Prediction)
 
 Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
 
