@@ -48,7 +48,7 @@ Algorithms/Approach: Multilabel classification(Performance metric Micro F1 Score
 
 ## H1B Visa Case Status Prediction
 
-[Link to Project](https://github.com/August-Leo/Banking_Customer_Subscription_Analysis)
+[Link to Project](https://github.com/August-Leo/H1B_Visa_Case_Status_Prediction)
  
 
 The objective of this model is to predict the case status of an application submitted by the employer in order to hire a non immigrant worker in the United States under the H-1B program.
