@@ -64,7 +64,7 @@ Algorithms/Approach: Feature Engineering,Label Encoding,Under Sampling + SMOTE,R
 
 ## Topic Modeling Using LDA – 20Newsgroup
 
-[Link to Project] (https://github.com/August-Leo/Topic_Modeling_Using_LDA_20Newsgroup)
+[Link to Project](https://github.com/August-Leo/Topic_Modeling_Using_LDA_20Newsgroup)
 
 
 The objective of this model is to extract main topics occur in set of documents.
