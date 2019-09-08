@@ -62,8 +62,14 @@ Technical Domain: Predictive Modeling
 Algorithms/Approach: Feature Engineering,Label Encoding,Under Sampling + SMOTE,RF feature importance,Decision tree with bagging, Random Forest, XGBoost.
 
 
-## Credit Card Fraud Detection
+## Topic Modeling Using LDA – 20Newsgroup
 
 [Link to Project]
 
-Status: Currently this work is in Progress
+
+The objective of this model is to extract main topics occur in set of documents.
+
+Functional Domain: Newsgroups (online discussion forum)
+Technical Domain: Topic Modeling (NLP)
+
+Algorithms/Approach: Text Preprocessing, Stopwords removal, Lemmatize, Stemming, LDA
