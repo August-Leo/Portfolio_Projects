@@ -9,6 +9,7 @@ In Today's Market, many companies have a mobile presence. Often, these companies
 The objective of this model is to predict which users will not subscribe to the paid membership, so that greater marketing efforts can go into trying to 'convert' them to paid users. 
 
 Functional Domain: Fintech
+
 Technical Domain: Predictive Modeling
 
 Algorithms/Approach: Feature engineering,Feature scaling,Logistic Regression,GridSearch, RandomForest with Hyperopt
@@ -26,6 +27,7 @@ Our first objective is to determine which variables have the highest influence o
 The second objective is to determine patterns in variables that produce the most term deposit purchases.
 
 Functional Domain: Banking
+
 Technical Domain: Predictive Modeling
 
 Algorithms/Approach: Feature engineering, Class imbalance handled using up sampling and down sampling simultaneously, Feature Selection, Random Forest.
@@ -44,6 +46,7 @@ Based on the type of tags assigned to questions, the top eight most discussed to
 The objective of this model is to suggest the tags based on the content that was there in the question posted on Stackoverflow.
 
 Functional Domain: Internet (Online learning)
+
 Technical Domain: Natural Language Processing, Predictive modeling (Multilabel classification)
 
 Algorithms/Approach: Multilabel classification(Performance metric Micro F1 Score), SQLLite to manage data, Tags Analysis, Natural Language Processing, Logistic Regression with OneVsRest Classifier.
@@ -57,6 +60,7 @@ Algorithms/Approach: Multilabel classification(Performance metric Micro F1 Score
 The objective of this model is to predict the case status of an application submitted by the employer in order to hire a non immigrant worker in the United States under the H-1B program.
 
 Functional Domain: Employment
+
 Technical Domain: Predictive Modeling
 
 Algorithms/Approach: Feature Engineering,Label Encoding,Under Sampling + SMOTE,RF feature importance,Decision tree with bagging, Random Forest, XGBoost.
@@ -70,6 +74,13 @@ Algorithms/Approach: Feature Engineering,Label Encoding,Under Sampling + SMOTE,R
 The objective of this model is to extract main topics occur in set of documents.
 
 Functional Domain: Newsgroups (online discussion forum)
+
 Technical Domain: Topic Modeling (NLP)
 
 Algorithms/Approach: Text Preprocessing, Stopwords removal, Lemmatize, Stemming, LDA
+
+
+## Movie Recommender System
+
+[Link to Project] Currently this work is in progress.
+
