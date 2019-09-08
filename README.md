@@ -82,5 +82,5 @@ Algorithms/Approach: Text Preprocessing, Stopwords removal, Lemmatize, Stemming,
 
 ## Movie Recommender System
 
-[Link to Project] Currently this work is in progress.
+Currently this work is in progress.
 
