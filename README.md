@@ -80,7 +80,7 @@ Technical Domain: Topic Modeling (NLP)
 Algorithms/Approach: Text Preprocessing, Stopwords removal, Lemmatize, Stemming, LDA
 
 
-## Movie Recommender System
+## Forecasting for Furniture Sales Using Time Series Analysis
 
 Currently this work is in progress.
 
